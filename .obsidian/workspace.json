@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "05fe5fac00afbfdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8fd2fc3d358b60a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e8d2550da36de99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8e00164eadbb5e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "개요.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f91a3182392cf649",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92fd500d05898ce2",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfaa440827e075f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14ccf3ad1024827e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f030dd6e45c1a2df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3962b112e9ee264c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "559bd87b0a101c3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "24e91b76bf7ab534",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b3262f76dfe9065",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "개요.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3f15f64fefc55d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "개요.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8cb2fa9dddeca3e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f150acfaccb27cfd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "개요.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "f91a3182392cf649",
+  "lastOpenFiles": [
+    "무제 파일.md",
+    "무제 파일 1.md",
+    "개요.md",
+    "2024-04-23.md",
+    "Lines.cs.md"
+  ]
+}
