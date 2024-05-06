@@ -20,29 +20,19 @@
             }
           },
           {
-            "id": "b8e00164eadbb5e1",
+            "id": "bf9e2988c8d8e7ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개요.md",
+                "file": "ModernChic/Lua-개요.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "f91a3182392cf649",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개요.md",
+                "file": "ModernChic/Lua-개요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개요.md",
+                "file": "ModernChic/Lua-개요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개요.md"
+                "file": "ModernChic/Lua-개요.md"
               }
             }
           }
@@ -169,12 +159,31 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f91a3182392cf649",
+  "active": "bf9e2988c8d8e7ff",
   "lastOpenFiles": [
+    "무제 파일.canvas",
+    "ModernChic/Decide.md",
     "무제 파일.md",
-    "무제 파일 1.md",
+    "ModernChic/Lua-개요.md",
+    "ModernChic/io.md",
+    "Liltoon.md",
+    "에디터.md",
+    "리겜프로젝트.md",
+    "라투디.md",
+    "Koishi's Koishi.md",
+    "FMOD.md",
+    "ModernChic/ModernChic-Lua.md",
+    "ModernChic/Root-Lua.md",
+    "ModernChic/Sound.md",
+    "ModernChic/Select.md",
+    "ModernChic/Root.md",
+    "ModernChic/Result.md",
+    "ModernChic/Play.md",
+    "ModernChic/ModernChic.md",
+    "ModernChic",
+    "채보제작.md",
     "개요.md",
-    "2024-04-23.md",
-    "Lines.cs.md"
+    "Lines.cs.md",
+    "2024-04-23.md"
   ]
 }
