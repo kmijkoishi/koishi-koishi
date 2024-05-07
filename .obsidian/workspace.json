@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0e8d2550da36de99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 파일.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bf9e2988c8d8e7ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ModernChic/Lua-개요.md",
+                "file": "Koishi's Koishi.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ModernChic/Lua-개요.md",
+                "file": "Koishi's Koishi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ModernChic/Lua-개요.md",
+                "file": "Koishi's Koishi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ModernChic/Lua-개요.md"
+                "file": "Koishi's Koishi.md"
               }
             }
           }
@@ -159,31 +146,44 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "bf9e2988c8d8e7ff",
+  "active": "14ccf3ad1024827e",
   "lastOpenFiles": [
+    "Private/koishi-koishi-private",
+    "Private/리겜프로젝트/리겜프로젝트.md",
+    "Private/리겜프로젝트/Lines.cs.md",
+    "Public/비토라자스킨/ModernChic/ModernChic.md",
+    "Public/비토라자스킨/비토라자스킨.md",
+    "Private/Private.md",
+    "Public/Public.md",
+    "Public/FMOD/FMOD.md",
     "무제 파일.canvas",
-    "ModernChic/Decide.md",
+    "Public/FMOD",
     "무제 파일.md",
-    "ModernChic/Lua-개요.md",
-    "ModernChic/io.md",
-    "Liltoon.md",
-    "에디터.md",
-    "리겜프로젝트.md",
-    "라투디.md",
-    "Koishi's Koishi.md",
-    "FMOD.md",
-    "ModernChic/ModernChic-Lua.md",
-    "ModernChic/Root-Lua.md",
-    "ModernChic/Sound.md",
-    "ModernChic/Select.md",
-    "ModernChic/Root.md",
-    "ModernChic/Result.md",
-    "ModernChic/Play.md",
-    "ModernChic/ModernChic.md",
-    "ModernChic",
-    "채보제작.md",
     "개요.md",
-    "Lines.cs.md",
-    "2024-04-23.md"
+    "라투디.md",
+    "Private/리겜프로젝트/채보제작",
+    "Private/리겜프로젝트/에디터",
+    "Private/리겜프로젝트",
+    "Public/비토라자스킨",
+    "Public/쉐이더/쉐이더.md",
+    "Public/쉐이더/Liltoon",
+    "Public/쉐이더",
+    "Koishi's Koishi.md",
+    "무제 파일 1.md",
+    "Private",
+    "Public",
+    "Public/비토라자스킨/ModernChic/Lua-개요.md",
+    "Public/비토라자스킨/ModernChic/Decide.md",
+    "Public/비토라자스킨/ModernChic/io.md",
+    "Public/쉐이더/Liltoon/Liltoon.md",
+    "Private/리겜프로젝트/에디터/에디터.md",
+    "Public/비토라자스킨/ModernChic/ModernChic-Lua.md",
+    "Public/비토라자스킨/ModernChic/Root-Lua.md",
+    "Public/비토라자스킨/ModernChic/Sound.md",
+    "Public/비토라자스킨/ModernChic/Select.md",
+    "Public/비토라자스킨/ModernChic/Root.md",
+    "Public/비토라자스킨/ModernChic/Result.md",
+    "Public/비토라자스킨/ModernChic/Play.md",
+    "Public/비토라자스킨/ModernChic"
   ]
 }
