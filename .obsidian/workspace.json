@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public/쉐이더/Liltoon/Liltoon.md",
+                "file": "Public/쉐이더/Liltoon/노말 맵 광택 설정/노말 맵 광택 설정.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public/쉐이더/Liltoon/Liltoon.md",
+                "file": "Public/쉐이더/Liltoon/노말 맵 광택 설정/노말 맵 광택 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Public/쉐이더/Liltoon/Liltoon.md",
+                "file": "Public/쉐이더/Liltoon/노말 맵 광택 설정/노말 맵 광택 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Public/쉐이더/Liltoon/Liltoon.md"
+                "file": "Public/쉐이더/Liltoon/노말 맵 광택 설정/노말 맵 광택 설정.md"
               }
             }
           }
@@ -161,11 +161,11 @@
   },
   "active": "effe052e528a8e0f",
   "lastOpenFiles": [
+    "Public/쉐이더/Liltoon/기본 설정/기본 설정.md",
+    "Public/쉐이더/Liltoon/Liltoon.md",
     "Screenshot_344 1.png",
     "Screenshot_344.png",
     "Public/쉐이더/쉐이더.md",
-    "Public/쉐이더/Liltoon/기본 설정/기본 설정.md",
-    "Public/쉐이더/Liltoon/Liltoon.md",
     "Public/VRChat/VRChat.md",
     "Public/Public.md",
     "Public/VRChat",

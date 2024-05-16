@@ -1,5 +1,6 @@
 ### Rendering Mode(랜더링 모드)
-- Opaque(불투명): 일반적 불투명 오브젝트 ![[Screenshot_344 1.png]]
+- Opaque(불투명): 일반적 불투명 오브젝트 
+![[Screenshot_344 1.png|300x300]]
 - Cutout(컷아웃): 임계값을 기준으로 투명과 불투명으로 표현하는 오브젝트
 - Transparent(투명한): 알파값에 기반한 투명한 오브젝트
 
