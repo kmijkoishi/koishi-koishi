@@ -1,5 +1,5 @@
 ModernChic 최상위 폴더에 있는 Lua 파일들
-
+[[Lua-개요]]
 ### config.lua
 컨피그 파일,
 - m: 플레이스킨용 설정(?)
