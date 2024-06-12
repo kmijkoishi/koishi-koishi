@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public/쉐이더/Liltoon/Liltoon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "effe052e528a8e0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Public/비토라자스킨/ModernChic/Lua-개요.md",
+                "file": "8장 저장장치 입출력 및 스케줄링.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public/쉐이더/Liltoon/Liltoon.md",
+                "file": "8장 저장장치 입출력 및 스케줄링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Public/쉐이더/Liltoon/Liltoon.md",
+                "file": "8장 저장장치 입출력 및 스케줄링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Public/쉐이더/Liltoon/Liltoon.md"
+                "file": "8장 저장장치 입출력 및 스케줄링.md"
               }
             }
           }
@@ -160,19 +148,28 @@
   },
   "active": "bf9e2988c8d8e7ff",
   "lastOpenFiles": [
-    "Public/쉐이더/Liltoon/res/res_public_liltoon_OpaqueExample.png",
+    "9장 프로세스간의 동기화.md",
+    "8장 저장장치 입출력 및 스케줄링.md",
+    "무제 파일.md",
+    "12장 운영체제의 역사.md",
+    "11장 프로세스 간의 통신.md",
+    "10장 데드락 문제 및 그 해법.md",
+    "Koishi's Koishi.md",
+    "Public/비토라자스킨/ModernChic/ModernChic.md",
+    "Public/비토라자스킨/ModernChic/ModernChic-Lua.md",
+    "Public/비토라자스킨/ModernChic/Sound.md",
+    "Public/비토라자스킨/ModernChic/Select.md",
+    "Public/비토라자스킨/비토라자스킨.md",
+    "Public/비토라자스킨/ModernChic/Lua-개요.md",
+    "Public/비토라자스킨/ModernChic/Decide.md",
     "Public/쉐이더/Liltoon/Liltoon.md",
+    "Public/쉐이더/Liltoon/res/res_public_liltoon_OpaqueExample.png",
     "Public/Public.md",
     "Resources/Screenshot_344.png",
     "Resources",
-    "무제 파일.md",
     "Public/쉐이더/Liltoon/res",
     "Screenshot_344.png",
     "Screenshot_344 1.png",
-    "Public/비토라자스킨/ModernChic/ModernChic-Lua.md",
-    "Public/비토라자스킨/ModernChic/Lua-개요.md",
-    "Public/비토라자스킨/ModernChic/ModernChic.md",
-    "Koishi's Koishi.md",
     "Private/리겜프로젝트/채보제작/채보제작.md",
     "Private/리겜프로젝트/리겜프로젝트.md",
     "Private/Private.md",
@@ -189,16 +186,8 @@
     "Public/쉐이더/Liltoon/노말 맵 광택 설정",
     "Public/쉐이더/Liltoon/색상 설정",
     "Public/쉐이더/Liltoon/기본 설정",
-    "Public/비토라자스킨/비토라자스킨.md",
-    "Private/리겜프로젝트/에디터/에디터.md",
     "Private/리겜프로젝트/채보제작",
     "Private/리겜프로젝트/에디터",
-    "Private/리겜프로젝트/Lines.cs.md",
-    "Public/FMOD/FMOD.md",
-    "무제 파일.canvas",
-    "개요.md",
-    "라투디.md",
-    "무제 파일 1.md",
-    "Public/비토라자스킨/ModernChic/Decide.md"
+    "무제 파일.canvas"
   ]
 }
