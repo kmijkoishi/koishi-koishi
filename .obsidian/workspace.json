@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/메모장.md",
+                "file": "Public/HBM/HBM-석유테크.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/메모장.md",
+                "file": "Public/HBM/HBM-석유테크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Private/메모장.md",
+                "file": "Public/HBM/HBM-석유테크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/메모장.md"
+                "file": "Public/HBM/HBM-석유테크.md"
               }
             }
           }
@@ -189,8 +189,9 @@
   },
   "active": "b7a14c1adeed3ca9",
   "lastOpenFiles": [
-    "무제 파일 1.md",
     "Public/HBM/HBM.md",
+    "Private/메모장.md",
+    "무제 파일 1.md",
     "Public/HBM/HBM-석유테크.md",
     "Public/HBM",
     "Public/Celeste/Celeste-Skin/Celeste-Atlases.md",
@@ -206,7 +207,6 @@
     "10장 데드락 문제 및 그 해법.md",
     "Public/Public.md",
     "Private/리겜프로젝트/에디터/에디터.md",
-    "Private/메모장.md",
     "Public/비토라자스킨/ModernChic/Lua-개요.md",
     "Public/비토라자스킨/ModernChic/Decide.md",
     "Public/쉐이더/Liltoon/Liltoon.md",
