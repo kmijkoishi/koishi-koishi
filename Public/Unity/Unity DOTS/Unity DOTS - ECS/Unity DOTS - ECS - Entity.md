@@ -1,0 +1,1 @@
+유니티 ECS 내에서 Entity
