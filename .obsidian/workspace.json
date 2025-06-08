@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public/Unity/Unity DOTS/Unity DOTS - ECS/Unity DOTS - ECS - 개요.md",
+                "file": "Public/Uncategorized/Class vs Struct.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Unity DOTS - ECS - 개요"
+              "title": "Class vs Struct"
             }
           }
         ]
@@ -180,8 +180,13 @@
   },
   "active": "d9b1ea3be4989d41",
   "lastOpenFiles": [
-    "Public/Unity/Unity DOTS/Unity DOTS - Job System/Unity DOTS - Job System.md",
+    "Public/Uncategorized/오류 보고서.md",
+    "Public/Uncategorized/Class vs Struct.md",
+    "Public/Uncategorized",
+    "Public/Uncategorized/무제 파일.md",
+    "Public/Uncategorized/무제.canvas",
     "Public/Unity/Unity DOTS/Unity DOTS - ECS/Unity DOTS - ECS - 개요.md",
+    "Public/Unity/Unity DOTS/Unity DOTS - Job System/Unity DOTS - Job System.md",
     "Public/Unity/Unity DOTS/Unity DOTS - ECS/Unity DOTS - ECS.md",
     "Public/Unity/Unity DOTS/Unity DOTS - ECS/Unity DOTS - ECS - Entity.md",
     "Public/Unity/Unity DOTS/Unity DOTS - ECS/Unity DOTS - ECS - Component.md",
@@ -203,22 +208,17 @@
     "Public/Unity/Unity DOTS/Unity DOTS.md",
     "Public/Unity/Unity.md",
     "Koishi's Koishi.md",
-    "Public/Unity/Unity DOTS/Unity DOTS - ECS/Unity DOTS - ECS - Baker.md",
     "Public/Unity/Unity DOTS/Unity DOTS - Burst Compiler",
     "Public/Unity/Unity DOTS/Unity DOTS - Job System",
     "Public/Unity/Unity DOTS/Unity DOTS - ECS",
     "Public/Unity/Unity DOTS",
     "Public/Unity",
-    "오류 보고서.md",
-    "무제 파일 1.md",
-    "무제.canvas",
     "Public/HBM",
     "Public/Celeste/Celeste-Skin",
     "Public/Celeste",
     "Public/쉐이더/Liltoon/res/res_public_liltoon_OpaqueExample.png",
     "Resources/Screenshot_344.png",
     "Resources",
-    "Public/쉐이더/Liltoon/res",
     "Screenshot_344.png",
     "Screenshot_344 1.png",
     "무제 파일.canvas"
