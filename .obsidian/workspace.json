@@ -8,20 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "987229c943630b97",
+            "id": "42b55af651358147",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Private/Project Pyrite/Project Pyrite - 요약도.canvas",
-                "viewState": {
-                  "x": -347.87016402299594,
-                  "y": 2160.4584861668827,
-                  "zoom": -0.05863723318584784
+                "file": "Public/Celeste/Celeste-Skin/Celeste-Atlases-Gameplay-characters-player.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Project Pyrite - 요약도"
+              "icon": "lucide-file",
+              "title": "Celeste-Atlases-Gameplay-characters-player"
             }
           }
         ]
@@ -163,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
       "switcher:빠른 전환기 열기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
@@ -171,37 +179,50 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "987229c943630b97",
+  "active": "42b55af651358147",
   "lastOpenFiles": [
-    "Private/Project Pyrite/Project Pyrite - 개요.md",
-    "Private/Project Pyrite/Project Pyrite.md",
-    "Private/Project Pyrite/Entity Data Linking Summary.md",
+    "Public/Celeste/Celeste-Skin/Celeste-Atlases.md",
+    "Public/Unity/Unity DOTS/Unity DOTS - ECS/Unity DOTS - ECS - System.md",
+    "Private/메모장-Private.md",
+    "Public/쉐이더/Liltoon/기본 설정/기본 설정.md",
+    "Public/메모장-Public.md",
+    "Pasted image 20250828171633.png",
+    "Pasted image 20250828171624.png",
+    "Private/Project Pyrite/무제.md",
     "Private/Project Pyrite/Project Pyrite - 요약도.canvas",
-    "Public/Uncategorized/무제.canvas",
-    "무제.md",
+    "Private/Project Pyrite/Project Pyrite - 콘셉트.canvas",
+    "Public/Perlin Noise.md",
     "Public/Uncategorized/오류 보고서.md",
-    "Public/Public.md",
-    "Public/Uncategorized/Class vs Struct.md",
-    "Public/Unity/Unity DOTS/Unity DOTS - ECS/Unity DOTS - ECS - 개요.md",
-    "Public/Unity/Unity DOTS/Unity DOTS - ECS/Unity DOTS - ECS.md",
-    "Public/Unity/Unity DOTS/Unity DOTS.md",
-    "Public/Unity/Unity.md",
-    "Private/Private.md",
-    "Private/Project Pyrite",
-    "Public/Unity/Unity DOTS/Unity DOTS - ECS/Baker vs CreateEntity.md",
-    "Koishi's Koishi.md",
-    "Public/Uncategorized",
     "Public/Uncategorized/무제 파일.md",
-    "Public/Unity/Unity DOTS/Unity DOTS - Job System/Unity DOTS - Job System.md",
+    "Public/Uncategorized/무제.canvas",
+    "perlin_3.drawio.png",
+    "perlin_2.drawio.png",
+    "perlin_1.drawio.png",
+    "Koishi's Koishi.md",
     "Public/Unity/Unity DOTS/Unity DOTS - ECS/Unity DOTS - ECS - Entity.md",
-    "Public/Unity/Unity DOTS/Unity DOTS - ECS/Unity DOTS - ECS - Component.md",
-    "Public/Unity/Unity DOTS/Unity DOTS - Burst Compiler/Unity DOTS - Burst Compiler.md",
-    "Public/HBM/HBM-석유테크.md",
-    "Public/HBM/HBM.md",
-    "Public/쉐이더/Liltoon/노말 맵 광택 설정/노말 맵 광택 설정.md",
-    "Public/쉐이더/Liltoon/Liltoon.md",
-    "Private/리겜프로젝트/리겜프로젝트.md",
-    "Private/리겜프로젝트/채보제작/채보제작.md",
+    "Summary.md",
+    "Script Development.md",
+    "Private/Project Pyrite/Entity Data Linking Summary.md",
+    "Private/Project Pyrite/Project Pyrite - 데이터 구조.canvas",
+    "Private/Project Pyrite/Project Pyrite - 개요.md",
+    "2025-11-27.md",
+    "Private/Project Pyrite/Project Pyrite.md",
+    "Proejct Pyrite 콘셉트.md",
+    "Private/Project Pyrite/Miner Workflow.md",
+    "Private/Project Pyrite/VoxelModel System Flow.md",
+    "Public/Github branch.md",
+    "Private/Private.md",
+    "Public/Public.md",
+    "Private/Project Pyrite/Project Pyrite - Voxel model data format.md",
+    "Private/Project Pyrite/Project Pyrite - Logging.md",
+    "Public/Unity/Unity DOTS/Unity DOTS - ECS/Baker vs CreateEntity.md",
+    "Public/res/res_public_perlin_interpolatedNoise.png",
+    "Public/res/res_public_perlin_rawNoise.png",
+    "Public/res/res_public_perlin_rawNoise.png",
+    "Public/res",
+    "Public/쉐이더/Liltoon/res/res_public_liltoon_OpaqueExample.png",
+    "Private/Project Pyrite",
+    "Public/Uncategorized",
     "Public/Unity/Unity DOTS/Unity DOTS - Burst Compiler",
     "Public/Unity/Unity DOTS/Unity DOTS - Job System",
     "Public/Unity/Unity DOTS/Unity DOTS - ECS",
@@ -209,11 +230,6 @@
     "Public/Unity",
     "Public/HBM",
     "Public/Celeste/Celeste-Skin",
-    "Public/Celeste",
-    "Public/쉐이더/Liltoon/res/res_public_liltoon_OpaqueExample.png",
-    "Resources/Screenshot_344.png",
-    "Screenshot_344.png",
-    "Screenshot_344 1.png",
     "무제 파일.canvas"
   ]
 }
